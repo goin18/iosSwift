@@ -26,7 +26,7 @@
                     </view>
                     <tabBarItem key="tabBarItem" title="Tasks" image="first" id="acW-dT-cKf"/>
                     <connections>
-                        <outlet property="tblTasks" destination="GZk-Ao-X97" id="yrV-JL-BfJ"/>
+                        <outlet property="tbvTasks" destination="GZk-Ao-X97" id="h7F-Bx-GZ1"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
